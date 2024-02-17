@@ -131,11 +131,9 @@ def add_logo():
 
 def main():
     st.title("Smartprep for Diploma")
+    st.write("""We are happy to offer you a seamless experience in selecting your preferred practice papers. Should you require any assistance in navigating our website, please do not hesitate to refer to the guidelines section for detailed instructions.
 
-
-    st.write("We are happy to offer you a seamless experience in selecting your preferred practice papers. Should you require any assistance in navigating our website, please do not hesitate to refer to the guidelines section for detailed instructions.")
-
-        We wish you the very best in your exam preparations. May success be yours!")
+        We wish you the very best in your exam preparations. May success be yours!""")
     st.markdown(
         """
         <style>
