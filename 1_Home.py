@@ -130,10 +130,12 @@ def add_logo():
 
 
 def main():
-    st.title("Smartprep")
+    st.title("Smartprep for Diploma")
 
 
-    st.write("Hello Everyone! Please select the below options to get your desired paper to practice. if you are unable to understand how to use the website, please go to guidelines section to know more. Happy preparation my friend! All the best for your exam.")
+    st.write("We are happy to offer you a seamless experience in selecting your preferred practice papers. Should you require any assistance in navigating our website, please do not hesitate to refer to the guidelines section for detailed instructions.
+
+        We wish you the very best in your exam preparations. May success be yours!")
     st.markdown(
         """
         <style>
