@@ -4,7 +4,7 @@ import sqlite3
 from io import BytesIO
 
 
-st.set_page_config(page_title="SmartPrep",page_icon="https://i.imgur.com/S9k9LNT.png")
+st.set_page_config(page_title="SmartPrep Diploma",page_icon="https://i.imgur.com/S9k9LNT.png")
 
 # Function to fetch subjects from the database
 def fetch_subjects():
